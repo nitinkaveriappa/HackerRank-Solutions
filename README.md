@@ -8,5 +8,5 @@ Solving HackerRank Problems as a Hobby.
 
 If you are interested in helping or have a solution in a different language feel free to make a pull request.
 
-<img src="https://img.shields.io/badge/Problems%20Solved-146-brightgreen.svg">
+<img src="https://img.shields.io/badge/Problems%20Solved-unknown-lightgrey.svg">
 <img src="https://img.shields.io/badge/Language-Java-orange.svg">
